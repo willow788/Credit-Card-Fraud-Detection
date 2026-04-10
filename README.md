@@ -140,16 +140,6 @@ Suggested metrics to report (common for fraud detection):
 - Cost-sensitive evaluation (optional)
 ---
 
-## Known Limitations / TODO
-
-- [ ] **Add the dataset (or provide a download link + exact expected filename/path).**
-- [ ] Add a `requirements.txt` for reproducible installs.
-- [ ] Standardize notebook naming (`v1`, `v2`) and describe what changed between versions.
-- [ ] Add a script/notebook cell that saves the trained model (e.g., with `joblib`) for reuse.
-- [ ] Add a short “Results” section with final evaluation numbers.
-
----
-
 ## License
 
 This project is licensed under the **MIT License**. See `LICENSE` for details.
