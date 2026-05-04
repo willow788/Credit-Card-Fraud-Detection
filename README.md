@@ -12,7 +12,6 @@ A machine learning project that explores **credit card fraud detection** using *
 - Build and evaluate baseline models using **Random Forest**.
 - Improve fraud-class recall/precision tradeoffs using **oversampling techniques** (e.g., **ADASYN** via `imbalanced-learn`).
 - Compare experiments across notebook versions.
-
 ---
 
 ## Repository Structure
